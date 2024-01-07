@@ -192,4 +192,5 @@
 .date button:hover{
     background-color: #FFF;
     color: #F00;
+    border: 1px solid #F00;
 }
