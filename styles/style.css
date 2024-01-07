@@ -281,12 +281,14 @@
 }
 
 /* holiday section styles */
-.holiday-main{
+.holiday-main {
     margin: 120px auto;
 }
-.holiday-text{
+
+.holiday-text {
     text-align: center;
 }
+
 .holiday-text h4 {
     color: #070211;
     font-family: 'Inter', sans-serif;
@@ -314,4 +316,22 @@
     font-weight: 500;
     line-height: 32px;
     /* 160% */
+}
+
+.holiday-image {
+    display: flex;
+    background-image: url('../resources/Rectangle 2.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin-top: 65px;
+}
+
+.img-2 {
+    border-radius: 16px 16px 0px 0px;
+    background: url('../resources/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 429px;
+    height: 433px;
+    flex-shrink: 0;
 }
