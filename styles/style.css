@@ -39,6 +39,48 @@
     font-size: 32px;
     font-weight: 400;
 }
-.banner .banner-text{
+
+.banner .banner-text {
     padding: 177px 344px;
 }
+
+/* off section styles */
+.off{
+    margin:120px auto;
+}
+.off-text h2 {
+    color: #F00;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 48px;
+}
+
+.off-text h4 {
+    color: #F00;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 16px;
+}
+
+.off-text h3 {
+    color: #070211;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 48px;
+}
+
+ .off-image{
+  text-align: center;
+} 
