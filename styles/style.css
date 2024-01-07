@@ -174,7 +174,7 @@
     margin-bottom: 48px;
 }
 
-.date .important {
+.important {
     color: #F00;
 }
 
@@ -259,7 +259,6 @@
 
 .best-offer-text-1 p {
     color: rgba(7, 2, 17, 0.60);
-    font-family: Inter;
     font-size: 20px;
     font-family: 'Inter', sans-serif;
     font-weight: 400;
@@ -279,4 +278,40 @@
     background-repeat: no-repeat;
     background-position: center;
     margin-right: 118px;
+}
+
+/* holiday section styles */
+.holiday-main{
+    margin: 120px auto;
+}
+.holiday-text{
+    text-align: center;
+}
+.holiday-text h4 {
+    color: #070211;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.holiday-text h2 {
+    color: #070211;
+    font-family: 'Merriweather', serif;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.holiday-text p {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    /* 160% */
 }
