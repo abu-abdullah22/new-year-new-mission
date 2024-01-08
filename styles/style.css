@@ -267,7 +267,7 @@
 
 .best-offer-image {
     border-radius: 364.844px;
-    background: url('../resources/Ellipse\ 1.png'), lightgray no-repeat;
+    background: url('../resources/Ellipse 1.png'), lightgray;
     flex-shrink: 0;
     border-radius: 463px;
     border: 15px solid #F00;
@@ -325,17 +325,21 @@
 }
 
 .img-2 {
-    border-radius: 16px 16px 0px 0px;
-    background: url('../resources/Rectangle\ 1.png');
+    background: url('../resources/Rectangle 1.png');
     background-repeat: no-repeat;
-    background-position: right;
-    width: 429px;
+    background-position: 100px 0px;
+    border-radius: 16px 16px 0px 0px;
+    width: 450px;
     height: 433px;
     flex-shrink: 0;
 }
 
-/* portfolio section styles */
+.img-2 img {
+    width: 60%;
 
+}
+
+/* portfolio section styles */
 .portfolio-main {
     margin: 120px auto;
 }
