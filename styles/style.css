@@ -423,6 +423,12 @@
     /* 160% */
     margin-bottom: 48px;
 }
+.newsletter-subscription {
+    display: flex;
+    align-items:middle;
+    margin-left: 220px;
+   
+}
 .newsletter-form input {
     border-radius: 50px 0px 0px 50px;
     background: #FFF;
@@ -432,7 +438,7 @@
     padding: 0 25px;
 }
 
-.newsletter-form button {
+.newsletter-button button {
     border-radius: 0px 50px 50px 0px;
     background: #F00;
     width: 210px;
