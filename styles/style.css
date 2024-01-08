@@ -451,3 +451,9 @@
     text-transform: capitalize;
     border: none;
 }
+
+.newsletter-button button:hover {
+    background-color: #FFF;
+    color: #F00;
+    border: 1px solid red;
+}
