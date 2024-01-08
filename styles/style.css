@@ -423,12 +423,14 @@
     /* 160% */
     margin-bottom: 48px;
 }
+
 .newsletter-subscription {
     display: flex;
-    align-items:middle;
+    align-items: middle;
     margin-left: 220px;
-   
+
 }
+
 .newsletter-form input {
     border-radius: 50px 0px 0px 50px;
     background: #FFF;
@@ -436,6 +438,10 @@
     width: 648px;
     height: 72px;
     padding: 0 25px;
+    color: rgba(7, 2, 17, 0.30);
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
 }
 
 .newsletter-button button {
@@ -457,3 +463,26 @@
     color: #F00;
     border: 1px solid red;
 }
+
+/* footer section styles */
+footer {
+    background: #070211;
+}
+
+.footer-text {
+    display: flex;
+    align-items: middle;
+    gap: 550px;
+    padding: 120px 200px 0 200px;
+}
+
+.footer-text .text-1 , .text-2 p{
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    /* 166.667% */
+}
+footer
