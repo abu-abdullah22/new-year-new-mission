@@ -388,3 +388,12 @@
     gap: 25px;
     align-items: end;
 }
+
+/* newsletter section styles */
+.newsletter-main {
+    text-align: center;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: 120px auto;
+    padding: 100px 0;
+}
