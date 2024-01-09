@@ -327,15 +327,16 @@
 .img-2 {
     background: url('../resources/Rectangle 1.png');
     background-repeat: no-repeat;
-    background-size: contain;
-    background-position: 90px 0px;
     border-radius: 16px 16px 0px 0px;
     width: 430px;
     height: 433px;
+    margin-top:5px;
 }
-
 .img-2 img {
-    width: 60%;
+    width: 50%;
+    position: relative;
+    top: 100px;
+    right: 100px;
 
 }
 
@@ -501,6 +502,7 @@ footer {
     padding-left: 500px;
     margin: 48px auto;
 }
+
 
 .footer-last {
     display: flex;
