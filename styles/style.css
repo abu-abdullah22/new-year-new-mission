@@ -330,8 +330,10 @@
     border-radius: 16px 16px 0px 0px;
     width: 430px;
     height: 433px;
-    margin-top:5px;
+    margin-top: 5px;
+    margin-left: 94px;
 }
+
 .img-2 img {
     width: 50%;
     position: relative;
